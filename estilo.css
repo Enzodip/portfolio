@@ -1,0 +1,44 @@
+.nombre{
+  text-align: center;
+  font-size: 80px;
+  background-color: rgb(105, 99, 99);
+  
+}
+.imagen {
+   image-rendering: pixelated;
+   position: absolute;
+   right: 20px;
+   top: 20px;
+   border: 5px solid black;
+
+}
+
+h2{
+    font-size: 30px;
+    background-color: rgb(37, 36, 36);
+}
+
+.DA{
+    font-size: 20px;
+}
+  
+ .Datos{
+    font-size: 20px;
+    font: 70px;
+ }
+
+ .Correo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ body{
+    background-color: rgb(82, 78, 78);
+ }
+
+ #Proyectos{
+ font-size: 20px;
+ flood-color: aquamarine;
+ }
+ #pp{
+    font-size: 30px;
+    text-shadow: 20px;
+ }
